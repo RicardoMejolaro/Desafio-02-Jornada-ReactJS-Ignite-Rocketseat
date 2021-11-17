@@ -77,7 +77,7 @@ Agora é só testar como no exemplo do gif acima!
 ***Ricardo Mejolaro*** 
 <br/> 
 <a href="https://www.linkedin.com/in/ricardo-mejolaro/">
-<img src="public/pictures/linkedin.png">
+<img src="public/linkedin.png">
 </a>
 
 ### Licença
