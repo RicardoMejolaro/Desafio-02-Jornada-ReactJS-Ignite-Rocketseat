@@ -54,7 +54,7 @@ $ git clone https://github.com/RicardoMejolaro/Desafio-02-Jornada-ReactJS-Ignite
 $ No seu editor, procurar a pasta que recebeu o clone do projeto, selecionar e abrir.
 
 #Abrir seu terminal de comando preferido via editor de código ou fora do editor, após acessar a pasta (no passo acima), acessar a pasta do projeto onde abrirá a branch master do repositório, com o comando:  
-$ cd desafio-nextcode
+$ cd Desafio-02-Jornada-ReactJS-Ignite-Rocketseat
 
 #Ao acessar o diretório acima mencionado, rodar o comando:
 $ npm install ou yarn install (para instalar as dependências necessárias)
